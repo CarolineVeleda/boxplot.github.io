@@ -1,0 +1,72 @@
+
+
+
+
+
+
+.squad{
+	
+	background: red;
+	width: 200px;
+	height:100px;
+	border: 3px solid;
+	border-color:black;
+	
+}
+
+
+
+#numero1{
+	float:lef;
+	display:inline-block;
+}
+
+
+.quartil1{
+	background: white;
+	width: 200px;
+	height:100px;
+	border: 3px solid;
+	border-color:black;
+	
+	
+}
+
+
+.tracinho{
+
+	background: black;
+	width: 100px;
+	height:5px;
+}
+
+
+.tracinho2{
+
+	background: black;
+	width: 100px;
+	height:5px;
+}
+
+
+
+.vertical{
+
+	background: black;
+	width: 5px;
+	height:100px;
+}
+
+
+
+.vertical2{
+
+	background: black;
+	width: 5px;
+	height:100px;
+}
+
+
+
+
+
